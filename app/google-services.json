@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625043601736",
+    "firebase_url": "https://alcowhole-c92ef.firebaseio.com",
+    "project_id": "alcowhole-c92ef",
+    "storage_bucket": "alcowhole-c92ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625043601736:android:a4511a5c76a203b1",
+        "android_client_info": {
+          "package_name": "com.medi.alcowhole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625043601736-dd410uuptmgafolb9lg2qbnk7i4nutpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medi.alcowhole",
+            "certificate_hash": "a8106afa21f46203086788c0db84bb9911da8ebc"
+          }
+        },
+        {
+          "client_id": "625043601736-gp25krgepifp0un0vp5ggum0u3je6clf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFTNA5h0BJKgFITLte7jdCGQ9GuQAiSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625043601736-gp25krgepifp0un0vp5ggum0u3je6clf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

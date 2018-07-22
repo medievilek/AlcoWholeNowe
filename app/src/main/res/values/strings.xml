@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AlcoWhole</string>
+    <array name="genres">
+        <item>Piwo Ciemne Mocne (Porter/Stout)</item>
+        <item>Piwo Dolnej Fermentacji (Lager)</item>
+        <item>Piwo Górnej Fermentacji (Ale)</item>
+        <item>Piwo Miodowe</item>
+        <item>Piwo Owocowe i Smakowe</item>
+        <item>Pszeniczne</item>
+        <item>Inne/Nie wiem</item>
+    </array>
+    <array name="kryteria">
+        <item>Aromat</item>
+        <item>Gorycz</item>
+        <item>Etykieta</item>
+        <item>Kolor</item>
+        <item>Ogólne wrażenia</item>
+        <item>Smak</item>
+        <item>Zapach</item>
+        <item>Piana</item>
+        <item>Słód</item>
+    </array>
+</resources>
